@@ -5,3 +5,4 @@ firefox-x64
 
 Disabling automatic updates is recommended.
 Don't worry about the nightly branding, it's only like that because it's an unofficial release.
+
